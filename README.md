@@ -1,5 +1,5 @@
 # ADS131E08 - Breakout
-Features:
+#### Features:
  - External Clock
  - Maxim 6072 Voltage Reference
  - Daisy Chainable Design
