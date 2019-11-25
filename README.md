@@ -8,4 +8,10 @@
  - Resolution 24 bit
  - Max sampling speeds 8ksps @ 24 bit 32 ksps @ 16 bit
  
- ![Test Image](Pictures/Render.png)
+## Rendered Board
+![Renedered PCB Image](Pictures/Render.png)
+ 
+## Copper
+| Top | Bottom |
+|:----:|:----:|
+|![Top Copper Image](Pictures/Copper.pdf)|  ![Bottom Copper Image](Pictures/Bottom.pdf)|
