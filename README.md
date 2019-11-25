@@ -10,8 +10,8 @@
  
 ## Rendered Board
 ![Renedered PCB Image](Images/Render.png)
- 
-## Copper
-| Top | Bottom |
-|:----:|:----:|
-|![Top Copper Image](Images/Top_Copper.png)|  ![Bottom Copper Image](Images/Bottom_Copper.png)|
+
+## Layers
+| Silkscreen | Top Copper | Bottom Copper |
+|:----:|:----:|:----:|
+|![PCB Silkscreen Layout Image](Images/Top_Silkscreen.png)|![Top Copper Image](Images/Top_Copper.png)|  ![Bottom Copper Image](Images/Bottom_Copper.png)|
