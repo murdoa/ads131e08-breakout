@@ -9,9 +9,9 @@
  - Max sampling speeds 8ksps @ 24 bit 32 ksps @ 16 bit
  
 ## Rendered Board
-![Renedered PCB Image](Pictures/Render.png)
+![Renedered PCB Image](Images/Render.png)
  
 ## Copper
 | Top | Bottom |
 |:----:|:----:|
-|![Top Copper Image](Pictures/Copper.pdf)|  ![Bottom Copper Image](Pictures/Bottom.pdf)|
+|![Top Copper Image](Images/Top_Copper.png)|  ![Bottom Copper Image](Images/Bottom_Copper.png)|
