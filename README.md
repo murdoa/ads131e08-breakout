@@ -1,4 +1,9 @@
 # ADS131E08 - Breakout
+
+### Summary
+Breakout board for bipolar 24-bit 8 channel simultaneous sampling ADC. 
+Boards are daisy chainable for expanded inputs up to 128 input. Input range +/- 2.4V. PMOD compatible SPI Interface.
+
 #### Features:
  - Daisy Chainable Design
  - External Clock Input
