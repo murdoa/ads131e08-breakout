@@ -4,6 +4,11 @@
 Breakout board for bipolar 24-bit 8 channel simultaneous sampling ADC. 
 Boards are daisy chainable for expanded inputs up to 128 input. Input range +/- 2.4V. PMOD compatible SPI Interface.
 
+### Tags
+ - EAGLE
+ - Hardware Project
+ - DAQ
+
 ### Images
  - [Images/Final.png] Final Rendered Board
  - [Images/Top_Silkscreen.png] Silkcreen layout of board
