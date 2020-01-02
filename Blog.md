@@ -10,7 +10,7 @@ Boards are daisy chainable for expanded inputs up to 128 input. Input range +/- 
  - DAQ
 
 ### Images
- - [Images/Final.png] Final Rendered Board
+ - [Images/Final.png] Rendered Board/3D Render of finalized PCB
  - [Images/Top_Silkscreen.png] Silkcreen layout of board
 
 ### Post 
